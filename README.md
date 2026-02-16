@@ -1,5 +1,5 @@
 # Wire Spool Generator
-OpenSCAD based wire spool generator that produces strong 3D printable spools suitable for winding electrical wire and similar material.
+[OpenSCAD based wire spool generator](https://www.printables.com/model/87228-electrical-wire-spools-with-customizable-generator/) that produces strong 3D printable spools suitable for winding electrical wire and similar material.
 
 This is based on the original by [Gladius](https://www.prusaprinters.org/prints/18981-customizeable-wire-spools) with some key improvements:
 
@@ -22,6 +22,9 @@ This is based on the original by [Gladius](https://www.prusaprinters.org/prints/
   diameterOfWireHoles=3.0;
   $fn=100;
   ```
+
+## More Info and Makes
+https://www.printables.com/model/87228-electrical-wire-spools-with-customizable-generator/
 
 ## License
 https://creativecommons.org/licenses/by/4.0/
